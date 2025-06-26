@@ -8,11 +8,11 @@ class Program
 
         LibraryManager library = new LibraryManager();
 
-        library.AddBook("Cien Años de Soledad", "Gabriel García Márquez", "1", 1967);
-        library.AddBook("1984", "George Orwell", "2", 1949);
-        library.AddBook("Don Quijote de la Mancha", "Miguel de Cervantes", "3", 1605);
-        library.AddBook("El Principito", "Antoine de Saint-Exupéry", "4", 1943);
-        library.AddBook("Crónica de una Muerte Anunciada", "Gabriel García Márquez", "5", 1981);
+        library.AddBook("Cien Años de Soledad", "Gabriel García Márquez", "1111", 1967);
+        library.AddBook("1984", "George Orwell", "2222", 1949);
+        library.AddBook("Don Quijote de la Mancha", "Miguel de Cervantes", "3333", 1605);
+        library.AddBook("El Principito", "Antoine de Saint-Exupéry", "4444", 1943);
+        library.AddBook("Crónica de una Muerte Anunciada", "Gabriel García Márquez", "5555", 1981);
 
         bool continuar = true;
         while (continuar)
